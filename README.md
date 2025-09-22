@@ -66,3 +66,7 @@ Collectible Tactic cards offering conditional effects, passive bonuses, and summ
 Inspired by relic systems in roguelikes but adapted for a persistent RPG structure.
 
 Designed to promote build diversity, trade-offs, and experimentation.
+
+📜 License
+
+This project is currently under a Personal Development License — code is viewable for demonstration and portfolio purposes but not open for redistribution.
