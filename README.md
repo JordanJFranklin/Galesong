@@ -12,7 +12,7 @@ This repository showcases my work in gameplay programming, system design, and wo
 
 Engine: Unity (C#)
 
-Languages: C#, SQL (for data management), Python (tools/scripts)
+Languages: C#
 
 Systems:
 
@@ -25,6 +25,10 @@ Card/Relic Equipment System (inspired by talismans, with unique tactical builds)
 Custom Physics Systems (swinging mechanics, grapple pulling, spring joints)
 
 Database-driven Stats & Effects (scalable and modifiable for balance testing)
+
+Dialogue System
+
+Save & Load Features
 
 🎮 Key Features
 ⚔️ Combat & Abilities
