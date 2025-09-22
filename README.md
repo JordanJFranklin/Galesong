@@ -4,7 +4,7 @@ A windswept action-adventure game in development
 
 📖 Overview
 
-Galesong is a third-person action-adventure project that blends fast-paced combat, cinematic camera design, and deep RPG systems. Inspired by titles like Hollow Knight, Elden Ring, and The Pathless, the game emphasizes fluid movement, strategic ability usage, and immersive worldbuilding.
+Galesong is a third-person action-adventure project that blends fast-paced combat, cinematic camera design, and deep RPG systems. Inspired by titles like Legend Of Zelda, Rayman, Sonic Frontiers, and The Pathless, the game emphasizes fluid movement, strategic ability usage, and immersive worldbuilding.
 
 This repository showcases my work in gameplay programming, system design, and worldbuilding, demonstrating my ability to create complex mechanics, implement scalable architecture, and craft a polished player experience.
 
